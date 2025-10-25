@@ -10,7 +10,7 @@ print(type(5.001))
 
 print(type(input("cozeeee")))
 
-knihovna = {"jmeno": "Mira", "registrovany": True, "vek": 33}
+knihovna = {"jmeno": "Mira", "registrovany": True, "zamestanani": "Amazon", "vek": 33}
 print(knihovna)
 
 cislo = 5
